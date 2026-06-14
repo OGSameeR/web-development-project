@@ -4,9 +4,6 @@ A modern, fully responsive multi-page website template for the Naye Pankh Founda
 
 A modern, highly responsive, and visually engaging multi-page website template designed for the **Naye Pankh Foundation** NGO. This project was developed focusing on clean semantic markup, fluid layouts, and performance-driven CSS animations to ensure an optimal user experience across all devices.
 
-## 🚀 Live Demo
-Check out the live website here: **[Insert Your GitHub Pages / Vercel Link Here]**
-
 ---
 
 ## ✨ Features
